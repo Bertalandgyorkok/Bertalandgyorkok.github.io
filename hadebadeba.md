@@ -22,3 +22,6 @@
 </style>
 
 <h1 class="myh1">hadebadeba</h1>
+
+
+<h1 style="text-align: center;">Heading 1</h1>
